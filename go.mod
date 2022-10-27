@@ -49,7 +49,7 @@ require (
 	github.com/kris-nova/lolgopher v0.0.0-20210112022122-73f0047e8b65
 	github.com/kubicorn/kubicorn v0.0.0-20180829191017-06f6bce92acc
 	github.com/lithammer/dedent v1.1.0
-	github.com/maxbrunsfeld/counterfeiter/v6 v6.4.1
+	github.com/maxbrunsfeld/counterfeiter/v6 v6.5.0
 	github.com/onsi/ginkgo/v2 v2.4.0
 	github.com/onsi/gomega v1.22.1
 	github.com/orcaman/concurrent-map v1.0.0
@@ -87,6 +87,7 @@ require (
 	k8s.io/kops v1.21.5
 	k8s.io/kubelet v0.21.2
 	k8s.io/legacy-cloud-providers v0.21.2
+	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed
 	sigs.k8s.io/mdtoc v1.1.0
 	sigs.k8s.io/yaml v1.3.0
 )
@@ -494,7 +495,6 @@ require (
 	k8s.io/klog/v2 v2.70.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20220803162953-67bda5d908f1 // indirect
 	k8s.io/kubectl v0.25.2 // indirect
-	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed // indirect
 	mvdan.cc/gofumpt v0.4.0 // indirect
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed // indirect
 	mvdan.cc/lint v0.0.0-20170908181259-adc824a0674b // indirect
