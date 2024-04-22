@@ -20,7 +20,7 @@ jobs:
       matrix:
         python-version: [3.9]
     steps:
-      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 #v4.1.1
+      - uses: actions/checkout@1d96c772d19495a3b5c517cd2bc0cb401ea0529f #v4.1.3
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@65d7f2d534ac1bc67fcd62888c5f4f3d2cb2b236 #v4.7.1
         with:
