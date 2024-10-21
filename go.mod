@@ -39,7 +39,7 @@ require (
 	github.com/fatih/color v1.15.0
 	github.com/github-release/github-release v0.10.0
 	github.com/gobwas/glob v0.2.3
-	github.com/gofrs/flock v0.8.1
+	github.com/gofrs/flock v0.12.1
 	github.com/golangci/golangci-lint v1.55.2
 	github.com/google/uuid v1.4.0
 	github.com/goreleaser/goreleaser v1.11.5
@@ -60,7 +60,7 @@ require (
 	github.com/spf13/afero v1.10.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/gjson v1.17.0
 	github.com/tidwall/sjson v1.2.5
 	github.com/tj/assert v0.0.3
@@ -442,7 +442,7 @@ require (
 	github.com/spotinst/spotinst-sdk-go v1.133.0 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
 	github.com/stbenjam/no-sprintf-host-port v0.1.1 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/t-yuki/gocover-cobertura v0.0.0-20180217150009-aaee18c8195c // indirect
 	github.com/tdakkota/asciicheck v0.2.0 // indirect
@@ -485,7 +485,7 @@ require (
 	golang.org/x/exp/typeparams v0.0.0-20230307190834-24139beb5833 // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.18.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/term v0.14.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
