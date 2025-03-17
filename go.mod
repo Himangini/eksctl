@@ -4,6 +4,7 @@
 module github.com/weaveworks/eksctl
 
 go 1.20
+toolchain go1.24.1
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.1
@@ -26,7 +27,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/outposts v1.33.2
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.43.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.25.2
-	github.com/aws/smithy-go v1.17.0
+	github.com/aws/smithy-go v1.22.3
 	github.com/benjamintf1/unmarshalledmatchers v1.0.0
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/bxcodec/faker v2.0.1+incompatible
