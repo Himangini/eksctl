@@ -29,7 +29,7 @@ jobs:
           fetch-depth: 0
       - name: Configure AWS credentials for coredns update
         if: ${{ matrix.resource == 'coredns' }}
-        uses: aws-actions/configure-aws-credentials@010d0da01d0b5a38af31e9c3470dbfdabdecca3a # v4.0.1
+        uses: aws-actions/configure-aws-credentials@254c19bd240aabef8777f48595e9d2d7b972184b # v6.2.1
         with:
           aws-region: us-west-2
           role-duration-seconds: 900
