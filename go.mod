@@ -3,7 +3,7 @@
 // you may also need to run `make push-build-image` depending on what has changed
 module github.com/weaveworks/eksctl
 
-go 1.20
+go 1.25
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.1
@@ -56,7 +56,7 @@ require (
 	github.com/otiai10/copy v1.14.0
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pkg/errors v0.9.1
-	github.com/sethvargo/go-password v0.2.0
+	github.com/sethvargo/go-password v0.4.0
 	github.com/spf13/afero v1.10.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
